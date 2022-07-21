@@ -26,7 +26,7 @@
 - 📖 My motto: “东隅已逝，桑榆非晚。”
 ---
 
-<div align="center">
+<div>
     <img src="https://metrics.lecoq.io/charles7c?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&lines=1&isocalendar.duration=half-year&languages.ignored=html&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FShanghai" width="85%"/>
     <img src="https://github-readme-stats.vercel.app/api?username=charles7c&show_icons=true&hide_border=true" width="85%" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=charles7c&theme=white&hide_border=true" width="85%" />
