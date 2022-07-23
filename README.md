@@ -27,18 +27,19 @@
 ---
 
 <div>
-	<img src="https://github-readme-stats.vercel.app/api?username=charles7c&show_icons=true&theme=&hide_title=&hide_border=true&layout=compact" style="display: inline-block; height: 145px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charles7c&show_icons=true&theme=&hide_title=&hide_border=true&layout=compact" style="display: inline-block; height: 127px;" />
+	<img src="https://github-readme-stats.vercel.app/api?username=charles7c&show_icons=true&theme=&hide_title=&hide_border=true&layout=compact" style="display: inline-block; height: 170px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charles7c&show_icons=true&theme=&hide_title=&hide_border=true&layout=compact" style="display: inline-block; height: 145px;" />
 </div>
 
 <div>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=charles7c&theme=white&hide_border=true" width="94%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=charles7c&theme=white&hide_border=true" width="85%" />
 </div>
 
 <div>
-	<img src="https://activity-graph.herokuapp.com/graph?username=Charles7c&theme=xcode&bg_color=FF000000" width="95%" />
+	<img src="https://activity-graph.herokuapp.com/graph?username=Charles7c&theme=xcode&bg_color=FF000000" width="85%" />
 </div>
 
 <div>
 	<img src="https://github-profile-trophy.vercel.app/?username=charles7c&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true" />
 </div>
+
