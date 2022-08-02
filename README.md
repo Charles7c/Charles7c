@@ -1,6 +1,12 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=40B883&height=180&section=header&text=Charles7c&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=40B883&height=180&section=header&text=Charles7c&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35" alt="头部图" />
 
-<div>
+<div align="center">
+    <a href="https://github.com/Charles7c">
+        <img src="https://readme-typing-svg.herokuapp.com?size=35&color=40B883&center=true&vCenter=true&width=1000&lines=Hello%2C+welcome+to+my+page;My+web+name+is+Charles7c;I'm+currently+working+on+java+backend+development;My+motto+:+"东隅已逝，桑榆非晚";Thanks" alt="欢迎语" />
+    </a>
+</div>
+
+<div align="center">
     <a href="https://blog.charles7c.top/" target="_blank" style="display: inline-block;">
         <img src="https://img.shields.io/badge/查尔斯的知识库-欢迎访问-brightgreen.svg?style=social&logo=blogger&logoColor=lightblue" alt="个人主页" />
     </a>&nbsp;
@@ -44,4 +50,5 @@
 <div align="center">
 	<img src="https://github-profile-trophy.vercel.app/?username=charles7c&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true" width="90%" />
 </div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=40B883&height=120&section=footer"/>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=40B883&height=120&section=footer" alt="尾部图"/>
