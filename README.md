@@ -1,8 +1,7 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=40B883&height=180&section=header&text=Charles7c&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35" alt="头部图" />
-
+<img width=100% src="./img/header.svg" alt="头部图" />
 <div align="center">
     <a href="https://github.com/Charles7c">
-        <img src="https://readme-typing-svg.herokuapp.com?size=35&color=40B883&center=true&vCenter=true&width=1000&lines=Hello%2C+welcome+to+my+page;My+web+name+is+Charles7c;I'm+currently+working+on+java+backend+development;My+motto+:+"东隅已逝，桑榆非晚";Thanks" alt="欢迎语" />
+        <img src="https://readme-typing-svg.herokuapp.com?size=35&color=40B883&center=true&vCenter=true&width=1000&lines=Hello%2C+welcome+to+my+page;My+web+name+is+Charles7c;I'm+currently+working+on+java+backend+development;My+motto+:+“东隅已逝，桑榆非晚”;Thanks" alt="欢迎语" />
     </a>
 </div>
 
@@ -31,7 +30,7 @@
 - 👋 Hi, I’m Charles7c
 - 🔭 I’m currently working on Java backend development
 - 📫 How to reach me: [charles7c@126.com](mailto:charles7c@126.com)
-- 📖 My motto: “东隅已逝，桑榆非晚。”
+- 📖 My motto: “东隅已逝，桑榆非晚”
 ---
 
 <div align="center">
@@ -50,5 +49,4 @@
 <div align="center">
 	<img src="https://github-profile-trophy.vercel.app/?username=charles7c&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true" width="90%" />
 </div>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=40B883&height=120&section=footer" alt="尾部图"/>
+<img width=100% src="./img/footer.svg" alt="尾部图"/>
