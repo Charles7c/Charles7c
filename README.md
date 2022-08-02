@@ -1,4 +1,5 @@
 <img width=100% src="./img/header.svg" alt="头部图" />
+
 <div align="center">
     <a href="https://github.com/Charles7c">
         <img src="https://readme-typing-svg.herokuapp.com?size=35&color=40B883&center=true&vCenter=true&width=1000&lines=Hello%2C+welcome+to+my+page;My+web+name+is+Charles7c;I'm+currently+working+on+java+backend+development;My+motto+:+“东隅已逝，桑榆非晚”;Thanks" alt="欢迎语" />
@@ -39,11 +40,11 @@
 </div>
 
 <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=charles7c&theme=white&hide_border=true" width="90%" />
+	<img src="https://activity-graph.herokuapp.com/graph?username=charles7c&bg_color=ffffff&color=40b883&line=40b883&point=40b883&area=true&hide_border=true" width="90%" />
 </div>
 
 <div align="center">
-	<img src="https://activity-graph.herokuapp.com/graph?username=charles7c&bg_color=ffffff&color=40b883&line=40b883&point=40b883&area=true&hide_border=true" width="90%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=charles7c&theme=white&hide_border=true" width="90%" />
 </div>
 
 <div align="center">
