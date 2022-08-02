@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=40B883&height=180&section=header&text=Charles7c&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+
 <div>
     <a href="https://blog.charles7c.top/" target="_blank" style="display: inline-block;">
         <img src="https://img.shields.io/badge/查尔斯的知识库-欢迎访问-brightgreen.svg?style=social&logo=blogger&logoColor=lightblue" alt="个人主页" />
@@ -26,20 +28,20 @@
 - 📖 My motto: “东隅已逝，桑榆非晚。”
 ---
 
-<div>
-	<img src="https://github-readme-stats.vercel.app/api?username=charles7c&show_icons=true&theme=&hide_title=&hide_border=true&layout=compact" style="display: inline-block; height: 170px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charles7c&show_icons=true&theme=&hide_title=&hide_border=true&layout=compact" style="display: inline-block; height: 145px;" />
+<div align="center">
+	<img src="https://github-readme-stats.vercel.app/api?username=charles7c&show_icons=true&count_private=true&hide_border=true&theme=vue" width="49%" height="auto" style="display: inline-block;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charles7c&layout=compact&hide_border=true&theme=vue" width="41%" height="auto" style="display: inline-block;" />
 </div>
 
-<div>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=charles7c&theme=white&hide_border=true" width="85%" />
+<div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=charles7c&theme=white&hide_border=true" width="90%" />
 </div>
 
-<div>
-	<img src="https://activity-graph.herokuapp.com/graph?username=Charles7c&theme=xcode&bg_color=FF000000" width="85%" />
+<div align="center">
+	<img src="https://activity-graph.herokuapp.com/graph?username=charles7c&bg_color=ffffff&color=40b883&line=40b883&point=40b883&area=true&hide_border=true" width="90%" />
 </div>
 
-<div>
-	<img src="https://github-profile-trophy.vercel.app/?username=charles7c&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true" />
+<div align="center">
+	<img src="https://github-profile-trophy.vercel.app/?username=charles7c&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true" width="90%" />
 </div>
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=40B883&height=120&section=footer"/>
