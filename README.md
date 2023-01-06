@@ -112,15 +112,6 @@
 ---
 
 <div align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=charles7c&show_icons=true&count_private=true&hide_border=true&theme=vue" width="49%" height="auto" style="display: inline-block;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charles7c&layout=compact&hide_border=true&theme=vue" width="41%" height="auto" style="display: inline-block;" />
-</div>
-
-<div align="center">
-	<img src="https://activity-graph.herokuapp.com/graph?username=charles7c&bg_color=ffffff&color=40b883&line=40b883&point=40b883&area=true&hide_border=true" width="90%" />
-</div>
-
-<div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=charles7c&theme=white&hide_border=true" width="90%" />
 </div>
 
