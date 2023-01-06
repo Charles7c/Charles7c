@@ -21,10 +21,12 @@
     </a>&nbsp;
 </p>
 
+---
 - 👋 Hi, I'm Charles7c
 - 🔭 I'm currently working on Java backend development
 - 📫 How to reach me: [charles7c@126.com](mailto:charles7c@126.com)
 - 📖 My motto: “东隅已逝，桑榆非晚。”
+---
 
 ### 后端技术栈
 
