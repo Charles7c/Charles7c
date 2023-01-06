@@ -32,12 +32,12 @@
 ### 后端技术栈
 
 ![Spring](https://img.shields.io/badge/-Spring-fff?logo=spring)
-![Spring Boot](https://img.shields.io/badge/-Spring Boot-fff?logo=spring-boot)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-fff?logo=spring-boot)
 ![MySQL](https://img.shields.io/badge/-MySQL-fff?logo=mysql)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-fff?logo=mariadb&logoColor=C4996D)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-fff?logo=postgresql)
 ![Oracle](https://img.shields.io/badge/-Oracle-fff?logo=oracle&logoColor=red)
-![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft SQL Server-fff?logo=microsoft-sql-server&logoColor=red)
+![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-fff?logo=microsoft-sql-server&logoColor=red)
 ![Redis](https://img.shields.io/badge/-Redis-fff?logo=redis)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-fff?logo=mongodb)
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-fff?logo=RabbitMQ&logoColor=orange)
@@ -52,7 +52,7 @@
 ![Gradle](https://img.shields.io/badge/-Gradle-fff?logo=gradle&logoColor=gray)
 ![JSON](https://img.shields.io/badge/-JSON-fff?logo=json&logoColor=000)
 ![JWT](https://img.shields.io/badge/-JWT-fff?logo=jsonwebtokens&logoColor=000)
-![Open JDK](https://img.shields.io/badge/-Open JDK-fff?logo=openjdk&logoColor=000)
+![Open JDK](https://img.shields.io/badge/-Open%20JDK-fff?logo=openjdk&logoColor=000)
 ![Python](https://img.shields.io/badge/-Python-fff?logo=python)
 ![Go](https://img.shields.io/badge/-Go-fff?logo=go)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-fff?logo=graphQL&logoColor=gray)
@@ -61,7 +61,7 @@
 
 ![Vue3](https://img.shields.io/badge/-Vue3-fff?logo=vue.js)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-fff?logo=typescript)
-![Ant Design](https://img.shields.io/badge/-Ant Design-fff?logo=ant-design&logoColor=blue)
+![Ant Design](https://img.shields.io/badge/-Ant%20Design-fff?logo=ant-design&logoColor=blue)
 ![Node.js](https://img.shields.io/badge/-Node.js-fff?logo=node.js)
 ![Vite](https://img.shields.io/badge/-Vite-fff?logo=vite)
 ![jQuery](https://img.shields.io/badge/-jQuery-fff?logo=jquery&logoColor=blue)
@@ -77,7 +77,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-fff?logo=github&logoColor=000)
 ![Gitee](https://img.shields.io/badge/-Gitee-fff?logo=gitee&logoColor=C71D23)
 ![gitlab](https://img.shields.io/badge/-GitLab-fff?logo=gitlab)
-![GitHub Actions](https://img.shields.io/badge/-GitHub Actions-fff?logo=github-actions)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-fff?logo=github-actions)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-fff?logo=jenkins)
 ![SonarQube](https://img.shields.io/badge/-SonarQube-fff?logo=sonarqube)
 ![Docker](https://img.shields.io/badge/-Docker-fff?logo=docker)
@@ -97,17 +97,17 @@
 ### 开发工具
 
 ![Postman](https://img.shields.io/badge/-Postman-fff?logo=postman)
-![Intellij IDEA](https://img.shields.io/badge/-Intellij IDEA-fff?logo=intellij-idea&logoColor=FE2464)
+![Intellij IDEA](https://img.shields.io/badge/-Intellij%20IDEA-fff?logo=intellij-idea&logoColor=FE2464)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-fff?logo=eclipse&logoColor=292051)
 ![WebStorm](https://img.shields.io/badge/-WebStorm-fff?logo=webstorm&logoColor=15D0F4)
-![Android Studio](https://img.shields.io/badge/-Android Studio-fff?logo=android-studio)
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-fff?logo=android-studio)
 ![VSCode](https://img.shields.io/badge/-VSCode-fff?logo=visual-studio-code&logoColor=gray)
 
 ### 其他
 
 ![Markdown](https://img.shields.io/badge/-Markdown-fff?logo=markdown&logoColor=000)
 ![WordPress](https://img.shields.io/badge/-WordPress-fff?logo=wordpress&logoColor=blue)
-![Adobe Photoshop](https://img.shields.io/badge/-Adobe Photoshop-fff?logo=adobe-photoshop)
+![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-fff?logo=adobe-photoshop)
 
 ---
 
