@@ -58,7 +58,8 @@
   <img src="https://img.shields.io/badge/-JWT-fff?logo=jsonwebtokens&amp;logoColor=000" alt="JWT" style="display: inline-block;" />&nbsp;
   <img src="https://img.shields.io/badge/-Java-fff?logo=openjdk&amp;logoColor=E32D31" alt="Java" style="display: inline-block;" />&nbsp;
   <img src="https://img.shields.io/badge/-Python-fff?logo=python" alt="Python" style="display: inline-block;" />&nbsp;
-  <img src="https://img.shields.io/badge/-Go-fff?logo=go" alt="Go" style="display: inline-block;" />&nbsp;
+  <img src="https://img.shields.io/badge/-Android-fff?logo=android" alt="Android" style="display: inline-block;" />&nbsp;
+  <img src="https://img.shields.io/badge/-Go-fff?logo=go&amp;logoColor=gray" alt="Go" style="display: inline-block;" />&nbsp;
   <img src="https://img.shields.io/badge/-GraphQL-fff?logo=graphQL&amp;logoColor=gray" alt="GraphQL" style="display: inline-block;" />&nbsp;
 </p>
 
