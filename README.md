@@ -16,9 +16,6 @@
     <a href="https://juejin.cn/user/685744115170142" target="_blank" style="display: inline-block;">
         <img alt="掘金个人主页" src="https://img.shields.io/badge/掘金-查尔斯-1E80FF" />
     </a>&nbsp;
-    <a href="https://www.yuque.com/charles7c" target="_blank" style="display: inline-block;">
-        <img alt="语雀个人主页" src="https://img.shields.io/badge/语雀-查尔斯-38D27D" />
-    </a>&nbsp;
 </p>
 
 ---
