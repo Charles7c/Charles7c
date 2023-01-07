@@ -23,7 +23,7 @@
 
 ---
 - 👋 Hi, I'm Charles7c
-- 🔭 I'm currently working on Java backend development
+- 🔭 I'm currently working on backend development
 - 📫 How to reach me: [charles7c@126.com](mailto:charles7c@126.com)
 - 📖 My motto: “东隅已逝，桑榆非晚。”
 ---
@@ -48,11 +48,15 @@
   <img src="https://img.shields.io/badge/-Kafka-fff?logo=apache-kafka&amp;logoColor=000" alt="Kafka" style="display: inline-block;" />&nbsp;
   <img src="https://img.shields.io/badge/-Consul-fff?logo=consul" alt="Consul" style="display: inline-block;" />&nbsp;
   <img src="https://img.shields.io/badge/-Tomcat-fff?logo=apache-tomcat&amp;logoColor=D2A41F" alt="Tomcat" style="display: inline-block;" />&nbsp;
+  <img src="https://img.shields.io/badge/-JUnit5-fff?logo=junit5" alt="JUnit5" style="display: inline-block;" />&nbsp;
+  <img src="https://img.shields.io/badge/-Liquibase-fff?logo=liquibase&amp;logoColor=2A63FF" alt="Liquibase" style="display: inline-block;" />&nbsp;
   <img src="https://img.shields.io/badge/-Maven-fff?logo=apache-maven&amp;logoColor=orange" alt="Maven" style="display: inline-block;" />&nbsp;
   <img src="https://img.shields.io/badge/-Gradle-fff?logo=gradle&amp;logoColor=gray" alt="Gradle" style="display: inline-block;" />&nbsp;
+  <img src="https://img.shields.io/badge/-Spring Security-fff?logo=spring-security" alt="Spring Security" style="display: inline-block;" />&nbsp;
+  <img src="https://img.shields.io/badge/-Hibernate-fff?logo=hibernate&amp;logoColor=BCAE7A" alt="Hibernate" style="display: inline-block;" />&nbsp;
   <img src="https://img.shields.io/badge/-JSON-fff?logo=json&amp;logoColor=000" alt="JSON" style="display: inline-block;" />&nbsp;
   <img src="https://img.shields.io/badge/-JWT-fff?logo=jsonwebtokens&amp;logoColor=000" alt="JWT" style="display: inline-block;" />&nbsp;
-  <img src="https://img.shields.io/badge/-Open%20JDK-fff?logo=openjdk&amp;logoColor=000" alt="Open JDK" style="display: inline-block;" />&nbsp;
+  <img src="https://img.shields.io/badge/-Java-fff?logo=openjdk&amp;logoColor=E32D31" alt="Java" style="display: inline-block;" />&nbsp;
   <img src="https://img.shields.io/badge/-Python-fff?logo=python" alt="Python" style="display: inline-block;" />&nbsp;
   <img src="https://img.shields.io/badge/-Go-fff?logo=go" alt="Go" style="display: inline-block;" />&nbsp;
   <img src="https://img.shields.io/badge/-GraphQL-fff?logo=graphQL&amp;logoColor=gray" alt="GraphQL" style="display: inline-block;" />&nbsp;
@@ -66,9 +70,13 @@
   <img src="https://img.shields.io/badge/-Ant%20Design-fff?logo=ant-design&amp;logoColor=blue" alt="Ant Design" style="display: inline-block;" />&nbsp;
   <img src="https://img.shields.io/badge/-Node.js-fff?logo=node.js" alt="Node.js" style="display: inline-block;" />&nbsp;
   <img src="https://img.shields.io/badge/-Vite-fff?logo=vite" alt="Vite" style="display: inline-block;" />&nbsp;
+  <img src="https://img.shields.io/badge/-Webpack-fff?logo=webpack&amp;logoColor=gray" alt="Webpack" style="display: inline-block;" />&nbsp;
   <img src="https://img.shields.io/badge/-jQuery-fff?logo=jquery&amp;logoColor=blue" alt="jQuery" style="display: inline-block;" />&nbsp;
   <img src="https://img.shields.io/badge/-BootStrap-fff?logo=bootstrap" alt="BootStrap" style="display: inline-block;" />&nbsp;
   <img src="https://img.shields.io/badge/-NPM-fff?logo=npm" alt="NPM" style="display: inline-block;" />&nbsp;
+  <img src="https://img.shields.io/badge/-Axios-fff?logo=axios&amp;logoColor=5A29E4" alt="Axios" style="display: inline-block;" />&nbsp;
+  <img src="https://img.shields.io/badge/-ESLint-fff?logo=eslint&amp;logoColor=F26623" alt="ESLint" style="display: inline-block;" />&nbsp;
+  <img src="https://img.shields.io/badge/-ECharts-fff?logo=apache-echarts&amp;logoColor=E43961" alt="ECharts" style="display: inline-block;" />&nbsp;
   <img src="https://img.shields.io/badge/-JavaScript-fff?logo=javascript" alt="JavaScript" style="display: inline-block;" />&nbsp;
   <img src="https://img.shields.io/badge/-HTML5-fff?logo=html5" alt="HTML5" style="display: inline-block;" />&nbsp;
   <img src="https://img.shields.io/badge/-CSS3-fff?logo=css3&amp;logoColor=blue" alt="CSS3" style="display: inline-block;" />&nbsp;
@@ -96,18 +104,27 @@
 <p>
   <img src="https://img.shields.io/badge/-阿里云-fff?logo=alibaba-cloud" alt="阿里云" style="display: inline-block;" />&nbsp;
   <img src="https://img.shields.io/badge/-Nginx-fff?logo=nginx&amp;logoColor=green" alt="Nginx" style="display: inline-block;" />&nbsp;
+  <img src="https://img.shields.io/badge/-VMware-fff?logo=vmware&amp;logoColor=blue" alt="VMware" style="display: inline-block;" />&nbsp;
   <img src="https://img.shields.io/badge/-Prometheus-fff?logo=prometheus" alt="Prometheus" style="display: inline-block;" />&nbsp;
+  <img src="https://img.shields.io/badge/-Grafana-fff?logo=grafana" alt="Grafana"style="display: inline-block;" />&nbsp;
   <img src="https://img.shields.io/badge/-Ansible-fff?logo=ansible&amp;logoColor=gray" alt="Ansible" style="display: inline-block;" />&nbsp;
   <img src="https://img.shields.io/badge/-Lua-fff?&amp;logo=lua&amp;logoColor=gray" alt="Lua" style="display: inline-block;" />&nbsp;
+</p>
+
+### 测试技术栈
+
+<p>
+  <img src="https://img.shields.io/badge/-Postman-fff?logo=postman" alt="Postman" style="display: inline-block;" />&nbsp;
+  <img src="https://img.shields.io/badge/-JMeter-fff?logo=apache-jmeter&amp;logoColor=gray" alt="JMeter" style="display: inline-block;" />&nbsp;
 </p>
 
 ### 开发工具
 
 <p>
-  <img src="https://img.shields.io/badge/-Postman-fff?logo=postman" alt="Postman" style="display: inline-block;" />&nbsp;
   <img src="https://img.shields.io/badge/-Intellij%20IDEA-fff?logo=intellij-idea&amp;logoColor=FE2464" alt="Intellij IDEA" style="display: inline-block;" />&nbsp;
   <img src="https://img.shields.io/badge/-Eclipse-fff?logo=eclipse&amp;logoColor=292051" alt="Eclipse" style="display: inline-block;" />&nbsp;
   <img src="https://img.shields.io/badge/-WebStorm-fff?logo=webstorm&amp;logoColor=15D0F4" alt="WebStorm" style="display: inline-block;" />&nbsp;
+  <img src="https://img.shields.io/badge/-PyCharm-fff?logo=pyCharm&amp;logoColor=1BD88A" alt="PyCharm" style="display: inline-block;" />&nbsp;
   <img src="https://img.shields.io/badge/-Android%20Studio-fff?logo=android-studio" alt="Android Studio" style="display: inline-block;" />&nbsp;
   <img src="https://img.shields.io/badge/-VSCode-fff?logo=visual-studio-code&amp;logoColor=gray" alt="VSCode" style="display: inline-block;" />&nbsp;
 </p>
