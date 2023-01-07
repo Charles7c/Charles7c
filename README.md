@@ -71,11 +71,11 @@
   <img src="https://img.shields.io/badge/-Node.js-fff?logo=node.js" alt="Node.js" style="display: inline-block;" />&nbsp;
   <img src="https://img.shields.io/badge/-Vite-fff?logo=vite" alt="Vite" style="display: inline-block;" />&nbsp;
   <img src="https://img.shields.io/badge/-Webpack-fff?logo=webpack&amp;logoColor=gray" alt="Webpack" style="display: inline-block;" />&nbsp;
-  <img src="https://img.shields.io/badge/-jQuery-fff?logo=jquery&amp;logoColor=blue" alt="jQuery" style="display: inline-block;" />&nbsp;
-  <img src="https://img.shields.io/badge/-BootStrap-fff?logo=bootstrap" alt="BootStrap" style="display: inline-block;" />&nbsp;
   <img src="https://img.shields.io/badge/-NPM-fff?logo=npm" alt="NPM" style="display: inline-block;" />&nbsp;
   <img src="https://img.shields.io/badge/-Axios-fff?logo=axios&amp;logoColor=5A29E4" alt="Axios" style="display: inline-block;" />&nbsp;
   <img src="https://img.shields.io/badge/-ESLint-fff?logo=eslint&amp;logoColor=F26623" alt="ESLint" style="display: inline-block;" />&nbsp;
+  <img src="https://img.shields.io/badge/-jQuery-fff?logo=jquery&amp;logoColor=blue" alt="jQuery" style="display: inline-block;" />&nbsp;
+  <img src="https://img.shields.io/badge/-BootStrap-fff?logo=bootstrap" alt="BootStrap" style="display: inline-block;" />&nbsp;
   <img src="https://img.shields.io/badge/-ECharts-fff?logo=apache-echarts&amp;logoColor=E43961" alt="ECharts" style="display: inline-block;" />&nbsp;
   <img src="https://img.shields.io/badge/-JavaScript-fff?logo=javascript" alt="JavaScript" style="display: inline-block;" />&nbsp;
   <img src="https://img.shields.io/badge/-HTML5-fff?logo=html5" alt="HTML5" style="display: inline-block;" />&nbsp;
@@ -106,7 +106,7 @@
   <img src="https://img.shields.io/badge/-Nginx-fff?logo=nginx&amp;logoColor=green" alt="Nginx" style="display: inline-block;" />&nbsp;
   <img src="https://img.shields.io/badge/-VMware-fff?logo=vmware&amp;logoColor=blue" alt="VMware" style="display: inline-block;" />&nbsp;
   <img src="https://img.shields.io/badge/-Prometheus-fff?logo=prometheus" alt="Prometheus" style="display: inline-block;" />&nbsp;
-  <img src="https://img.shields.io/badge/-Grafana-fff?logo=grafana" alt="Grafana"style="display: inline-block;" />&nbsp;
+  <img src="https://img.shields.io/badge/-Grafana-fff?logo=grafana" alt="Grafana" style="display: inline-block;" />&nbsp;
   <img src="https://img.shields.io/badge/-Ansible-fff?logo=ansible&amp;logoColor=gray" alt="Ansible" style="display: inline-block;" />&nbsp;
   <img src="https://img.shields.io/badge/-Lua-fff?&amp;logo=lua&amp;logoColor=gray" alt="Lua" style="display: inline-block;" />&nbsp;
 </p>
